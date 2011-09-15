@@ -1,4 +1,6 @@
 require 'active_support/core_ext/module/attribute_accessors'
+require "brawne/request.rb"
+require "brawne/version.rb"
 
 module Brawne
   @@_ran_once = false
