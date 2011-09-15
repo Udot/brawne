@@ -19,6 +19,7 @@ module Brawne
       rescue Errno::ECONNREFUSED
         return [503, "unavailable"]
       end
+    end
     
   end
 end

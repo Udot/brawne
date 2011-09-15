@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'brawne'
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.date        = '2011-09-15'
   s.summary     = "Brawne!"
   s.description = "Make request thrown Net::Http"
