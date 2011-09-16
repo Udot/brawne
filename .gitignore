@@ -1,3 +1,5 @@
 .rvmrc
 private.notes
 *.gem
+bundler/
+
